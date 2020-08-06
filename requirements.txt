@@ -1,3 +1,5 @@
+#MODIFIED BY JDS
+
 numpy
 torch>=1.2
 torchvision
